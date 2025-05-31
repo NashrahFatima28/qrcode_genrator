@@ -13,10 +13,16 @@ Open generate_qr.py in Visual Studio Code or any platform
 Edit the data variable with the text or URL you want to encode.
 
 
-## data = "https://linkedin.com"
-Run the script:
+## 🔧 Setup Instructions
+Install Python
+Download from python.org if not already installed.
+
+Install Required Package
+pip install qrcode[pil]
+Run the Script
 python generate_qr.py
-The QR code will be saved as qrcode.png in the same directory.
+## View Output
+Check the qrcode.png file in your project directory.
 
 ## 📁 Project Structure
 
@@ -24,9 +30,13 @@ The QR code will be saved as qrcode.png in the same directory.
 ## ├── generate_qr.py       # Main Python script
 ## └── qrcode.png           # Output QR code (after running the script)
 
-## ✅ Example Output
-<img src="qrcode.png" alt="QR Code" width="200"/>
-📌 Notes
-You can change the box_size and border in the script to control the size and spacing of the QR code.
+## Example Use Cases
+Share your website or portfolio
 
-Error correction level can be adjusted (L, M, Q, H) for more robustness
+Encode your Wi-Fi password for guests
+
+Add QR codes to product packaging
+
+Share your digital business card (vCard)
+
+Link to Google Maps location
