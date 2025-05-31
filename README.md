@@ -8,7 +8,7 @@ Make sure you have Python installed (3.x recommended). Then install the required
 ## 🛠️ How to Use
 Clone this repo or copy the script to your machine.
 
-Open generate_qr.py in Visual Studio Code.
+Open generate_qr.py in Visual Studio Code or any platform
 
 Edit the data variable with the text or URL you want to encode.
 
