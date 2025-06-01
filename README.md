@@ -22,13 +22,9 @@ pip install qrcode[pil]
 Run the Script
 python generate_qr.py
 ## View Output
-Check the qrcode.png file in your project directory.
 
-## 📁 Project Structure
 
-## qrcode-generator/
-## ├── generate_qr.py       # Main Python script
-## └── qrcode.png           # Output QR code (after running the script)
+
 
 ## Example Use Cases
 Share your website or portfolio
