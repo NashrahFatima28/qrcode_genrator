@@ -21,7 +21,26 @@ Install Required Package
 pip install qrcode[pil]
 Run the Script
 python generate_qr.py
-## View Output
+ View Output
+## 🚀 Features
+
+- 🔹 Generate QR codes from:
+  - URLs
+  - Plain text
+  - Wi-Fi credentials
+- 🖼️ Save QR codes as `.png` files
+- 🎨 Customizable colors, size, border
+- 📘 Jupyter Notebook and CLI supported
+
+## 📂 Project Structure
+
+qrcode-generator/
+├──  QRcode generator.py           # Python script version
+├── QRcode generator.ipynb  # Jupyter notebook version
+├── output/                  # Folder with generated QR code images
+├── requirements.txt         # List of Python dependencies
+└── README.md                # Project documentation
+
 
 
 
