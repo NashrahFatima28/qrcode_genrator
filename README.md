@@ -35,11 +35,11 @@ python generate_qr.py
 ## 📂 Project Structure
 
 qrcode-generator/
-├──  QRcode generator.py           # Python script version
-├── QRcode generator.ipynb  # Jupyter notebook version
-├── output/                  # Folder with generated QR code images
-├── requirements.txt         # List of Python dependencies
-└── README.md                # Project documentation
+## ├──  QRcode generator.py           # Python script version
+## ├── QRcode generator.ipynb  # Jupyter notebook version
+## ├── output/                  # Folder with generated QR code images
+## ├── requirements.txt         # List of Python dependencies
+## └── README.md                # Project documentation
 
 
 
